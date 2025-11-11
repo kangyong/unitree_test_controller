@@ -1,6 +1,6 @@
-<library path="legged_template_controller">
-    <class name="legged_template_controller/TemplateController"
-           type="legged::TemplateController"
+<library path="unitree_test_controller">
+    <class name="unitree_test_controller/UnitreeTestController"
+           type="legged::UnitreeTestController"
            base_class_type="controller_interface::ControllerInterface">
         <description>
             Template controller for legged robot.
